@@ -1,30 +1,52 @@
-<h1 align="center">Hi 👋, I'm Soumyadip Dutta</h1>
-<h3 align="center">A first-year BCA student, I'm diving headfirst into the world of coding. Constantly learning and exploring new possibilities keeps me fueled.</h3>
+Based on the information I have about you, here’s a modern GitHub profile README for you:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadipdutta1004&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipdutta1004" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyadipdutta1004" alt="soumyadipdutta1004" /></a> </p>
+# Hi there! 👋 I'm Soumyadip Dutta
 
-- 🔭 I’m currently **in college studying BCA 1st year.**
+🎓 **BCA Student | Python Developer**
 
-- 🌱 I’m currently learning **python**
+I’m a passionate coder with 2 years of experience in Python. Currently, I'm focused on strengthening my C++ skills, solving challenging coding problems, and working on exciting projects.
 
-- 👯 I’m looking to collaborate on **some python projects**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/SoumyadipDutta1004](https://github.com/SoumyadipDutta1004)
+## 🛠️ **Skills**
+- **Languages**: Python, C++
+- **Specialization**: Algorithmic problem-solving, LeetCode challenges, scripting
 
-- 💬 Ask me about **python**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 **What I'm Currently Working On**
+- Solving LeetCode problems like **Two Sum** to sharpen my algorithmic skills
+- Diving deeper into C++ and mathematics to enhance my coding foundation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyadipdutta1004&show_icons=true&locale=en&layout=compact" alt="soumyadipdutta1004" /></p>
+## 📚 **Learning Goals**
+- Getting better at creating automation scripts
+- Exploring YouTube-style coding content creation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadipdutta1004&show_icons=true&locale=en" alt="soumyadipdutta1004" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadipdutta1004&" alt="soumyadipdutta1004" /></p>
+## 📂 **Highlighted Projects**
+- **[LeetCode Solutions](#)**: A collection of solutions to some popular LeetCode problems, including detailed explanations and approaches.
+- **[Automation Scripts](#)**: A set of Python scripts designed for automating repetitive tasks.
 
+---
+
+## 📬 **Let's Connect**
+- GitHub Discussions: [@SoumyadipDutta](#)
+- Email: [your-email@example.com](#)
+
+---
+
+## 🐾 **Fun Fact**
+I have an awesome Indian Spitz named **Chiku** who keeps me company while I code! 🐶
+
+---
+
+Feel free to explore my repositories, contribute to projects, or just say hi! 😊
+
+---
+
+You can copy and paste this into your GitHub profile README. Feel free to tweak any section or add more personal details as you evolve your GitHub journey!
