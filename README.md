@@ -33,5 +33,6 @@ I’m a passionate coder with 2 years of experience in Python. Currently, I'm fo
 - Email: [soumyadipdutta1004@gmail.com](#)
 
 ---
+![](https://leetcard.jacoblin.cool/Soumyadip1004?cache=0)
 
 Feel free to explore my repositories, contribute to projects, or just say hi! 😊
