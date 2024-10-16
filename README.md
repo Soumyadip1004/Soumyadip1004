@@ -2,12 +2,12 @@
 
 🎓 **BCA Student | Software Developer**
 
-I’m a passionate coder with 2 years of experience in Python. Currently, I'm focused on strengthening my C++ skills, solving challenging coding problems.
+I’m a passionate coder with 2 years of experience. Currently, I'm focused on strengthening my C++ skills, solving challenging coding problems.
 
 ---
 
 ## 🛠️ **Skills**
-- **Languages**: Python, C++
+- **Languages**: Python, C & C++
 
 ---
 
