@@ -26,7 +26,7 @@ I’m a passionate coder with 2 years of experience in Python. Currently, I'm fo
 ---
 
 ## 📬 **Let's Connect**
-- LeetCode: Check out my coding challenges!
+- LeetCode: [Check out my coding challenges!](https://leetcode.com/u/Soumyadip1004/)
 - X: Follow me on X for updates!
 - LinkedIn: Connect with me on LinkedIn!
 - GitHub Discussions: [@SoumyadipDutta](#)
