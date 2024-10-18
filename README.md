@@ -9,22 +9,6 @@ I’m a passionate coder with 2 years of experience. Currently, I'm focused on s
 ## 🛠️ **Skills**
 - **Languages**: Python, C & C++
 
----
-
-## 🚀 **What I'm Currently Working On**
-- I am currently focusing on Data Structures and Algorithms (DSA).
-
----
-
-## 📚 **Learning Goals**
-- Getting better at Coding
-
----
-
-## 📂 **Highlighted Projects**
-
----
-
 ## 📬 **Let's Connect**
 - LeetCode: [Check out my coding challenges!](https://leetcode.com/u/Soumyadip1004/)
 - X: Follow me on X for updates!
