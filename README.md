@@ -2,11 +2,10 @@
 
 ###
 
-<p align="left">🛜 currently working on my own webpage<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022<br>🎬 just started out with my youtube channel tobi tackles tech</p>
-
-###
-
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazgwODZrbDczenJmeTNuYWU1dzNrdGloZGJvYmxveWpuaTMxMXJwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
+
+<p align="left">
+🛜 currently working on my react skills<br>
 
 ###
 
