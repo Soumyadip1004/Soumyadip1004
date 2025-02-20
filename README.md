@@ -7,6 +7,10 @@
 <p align="left">
 🛜 currently working on my react skills<br>
 
+
+<br clear="both">
+<br clear="both">
+
 ###
 
 <h2 align="left">💻 Tech Stack:</h2>
