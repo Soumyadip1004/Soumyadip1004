@@ -7,7 +7,6 @@
 <p align="left">
 <!-- 🛜 currently working on my react skills<br> -->
   
-# 💫 About Me:
 <br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br>
 
 
