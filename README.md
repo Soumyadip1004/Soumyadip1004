@@ -1,4 +1,4 @@
-<h2 align="left">Hello World 👋! My name is Soumyadip, a Web Developer from India :</h2>
+<h2 align="left">Hello World 👋! My name is Soumyadip, A Developer from India :</h2>
 
 ###
 
