@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazgwODZrbDczenJmeTNuYWU1dzNrdGloZGJvYmxveWpuaTMxMXJwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
+<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR0ZnJ3MmtpZHdxejY5NG43OTV2M3Zzd3Y0ZWNjOG90Y3Z4ZDVjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hXOede9Saf78OcbIGD/giphy.gif"  />
 
 <p align="left">
 <!-- 🛜 currently working on my react skills<br> -->
