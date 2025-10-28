@@ -73,4 +73,15 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 October 2025 - To: 27 October 2025
+
+TypeScript         14 hrs 11 mins  █████████████████▒░░░░░░░   69.86 %
+Prisma             1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+reStructuredText   1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+JSON               1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Bash               22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+```
+
 <!--END_SECTION:waka-->
