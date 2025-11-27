@@ -80,17 +80,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 26 mins       ██████████████████░░░░░░░   72.98 % 
-HTML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript               5 hrs 18 mins       ██████████████████████░░░   87.73 % 
+JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Trae                     6 hrs 5 mins        █████████████████████████   100.00 % 
+Trae                     6 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
