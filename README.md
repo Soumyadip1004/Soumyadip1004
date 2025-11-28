@@ -72,7 +72,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%205%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -80,17 +80,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 18 mins       ██████████████████████░░░   87.73 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TypeScript               4 hrs 26 mins       ██████████████████████░░░   86.55 % 
+JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Trae                     6 hrs 3 mins        █████████████████████████   100.00 % 
+Trae                     5 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
