@@ -2,7 +2,7 @@ name: Waka Readme Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight UTC (5:30 AM IST)
+    - cron: "0 0 * * 1" # Runs every midnight UTC (5:30 AM IST)
   workflow_dispatch:
 
 jobs:
