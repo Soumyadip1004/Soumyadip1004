@@ -72,5 +72,20 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Trae                     0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
