@@ -110,8 +110,11 @@ and sharpen my problem-solving skills one problem at a time.
 ## 📊 Coding Activity
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/Soumyadip1004?ext=heatmap&border=0" />
   <img height="320" src="https://www.readmecodegen.com/api/github-stats/svg?username=Soumyadip1004" />
+  <div>
+    <br>
+  </div>
+  <img src="https://leetcard.jacoblin.cool/Soumyadip1004?ext=heatmap&border=0" />
   <div>
     <br>
   </div>
